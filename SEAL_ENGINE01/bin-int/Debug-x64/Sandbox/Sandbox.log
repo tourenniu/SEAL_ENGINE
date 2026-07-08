@@ -1,0 +1,4 @@
+﻿F:\visual studio 2022\install\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(523,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+F:\visual studio 2022\install\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  SandboxApp.cpp
+  Sandbox.vcxproj -> F:\vspro\SEAL\bin\Debug-x64\Sandbox\Sandbox.exe
