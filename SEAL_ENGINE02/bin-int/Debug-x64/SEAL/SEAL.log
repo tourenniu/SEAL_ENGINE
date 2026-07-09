@@ -1,0 +1,229 @@
+﻿F:\visual studio 2022\install\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(523,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+F:\visual studio 2022\install\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  Log.cpp
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x485 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x487 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x488 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x491 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x492 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x495 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x497 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x498 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x49d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x49e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4ac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4b6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4b8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4b9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4bc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4be 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4c0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4c2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4c7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4d2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4f4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4f5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4f9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4fa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x4fd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x501 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x502 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x506 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x50a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x50b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x50c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x512 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(1,1): warning C4828: 文件包含在偏移 0x513 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Core.h(1,1): warning C4828: 文件包含在偏移 0x10 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Core.h(1,1): warning C4828: 文件包含在偏移 0x12 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Core.h(1,1): warning C4828: 文件包含在偏移 0x14 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Core.h(1,1): warning C4828: 文件包含在偏移 0x15 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Core.h(1,1): warning C4828: 文件包含在偏移 0x16 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Core.h(1,1): warning C4828: 文件包含在偏移 0x18 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Core.h(1,1): warning C4828: 文件包含在偏移 0x19 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Core.h(1,1): warning C4828: 文件包含在偏移 0x1a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Core.h(1,1): warning C4828: 文件包含在偏移 0x1b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Core.h(1,1): warning C4828: 文件包含在偏移 0x21 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Core.h(1,1): warning C4828: 文件包含在偏移 0x24 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“SRC/SEAL/Log.cpp”)
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(18,42): warning C4251: “SEAL::Log::s_CoreLogger”: class“std::shared_ptr<spdlog::logger>”需要有 dll 接口由 class“SEAL::Log”的客户端使用 
+  (编译源文件“SRC/SEAL/Log.cpp”)
+      F:\vspro\SEAL\SEAL\spdlog-1.x\spdlog-1.x\include\spdlog\details\registry.h(33,31):
+      参见“std::shared_ptr<spdlog::logger>”的声明
+  
+F:\vspro\SEAL\SEAL\SRC\SEAL\Log.h(19,42): warning C4251: “SEAL::Log::s_ClientLogger”: class“std::shared_ptr<spdlog::logger>”需要有 dll 接口由 class“SEAL::Log”的客户端使用 
+  (编译源文件“SRC/SEAL/Log.cpp”)
+      F:\vspro\SEAL\SEAL\spdlog-1.x\spdlog-1.x\include\spdlog\details\registry.h(33,31):
+      参见“std::shared_ptr<spdlog::logger>”的声明
+  
+  LINK : 没有找到 F:\vspro\SEAL\bin\Debug-x64\SEAL\SEAL.dll 或上一个增量链接没有生成它；正在执行完全链接
+    正在创建库 F:\vspro\SEAL\bin\Debug-x64\SEAL\SEAL.lib 和对象 F:\vspro\SEAL\bin\Debug-x64\SEAL\SEAL.exp
+  SEAL.vcxproj -> F:\vspro\SEAL\bin\Debug-x64\SEAL\SEAL.dll
